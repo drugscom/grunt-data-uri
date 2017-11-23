@@ -1,5 +1,5 @@
 {
-  "name": "grunt-data-uri",
+  "name": "@drugscom/grunt-data-uri",
   "version": "0.3.0",
   "description": "Convert to data-uri from image path.",
   "license": "MIT",
